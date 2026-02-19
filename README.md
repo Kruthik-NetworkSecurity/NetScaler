@@ -15,4 +15,4 @@ This repository documents my technical methodologies for managing and troublesho
 * **High Availability (HA):** Configuring and troubleshooting HA pairs to ensure zero downtime for critical business applications[cite: 24].
 
 ---
-*Verified Experience: 3.6+ Years in TAC & Networking Support*[cite: 13, 20, 26].
+*Verified Experience: 3.6+ Years in TAC & Networking Support*.
