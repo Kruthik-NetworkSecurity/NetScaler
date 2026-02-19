@@ -17,5 +17,3 @@ This repository documents my methodologies for managing and securing application
 ---
 *Verified Experience: 3.6+ Years in TAC & Networking Support at Citrix R&D and HCL Tech.*
 
----
-*Verified Experience: 3.6+ Years in TAC & Networking Support*.
